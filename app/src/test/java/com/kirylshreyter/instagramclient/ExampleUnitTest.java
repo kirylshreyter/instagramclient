@@ -16,6 +16,11 @@ public class ExampleUnitTest {
     }
 
     @Test
+    public void multiplication_isCorrect() {
+        assertEquals(8, 4 + 4);
+    }
+
+    @Test
     public void subtraction_isCorrect() {
         assertEquals(6, 8 - 2);
     }
