@@ -1,9 +1,9 @@
-package com.kirylshreyter.instagramclient.activities;
+package com.kirylshreyter.diamondapp.activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import com.kirylshreyter.instagramclient.activities.common.Tags;
+import com.kirylshreyter.diamondapp.activities.common.Tags;
 
 public class BaseActivity extends AppCompatActivity {
     private int layoutId;

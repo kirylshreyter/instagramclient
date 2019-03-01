@@ -1,4 +1,4 @@
-package com.kirylshreyter.instagramclient;
+package com.kirylshreyter.diamondapp;
 
 import org.junit.Test;
 

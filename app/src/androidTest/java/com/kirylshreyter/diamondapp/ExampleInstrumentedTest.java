@@ -1,4 +1,4 @@
-package com.kirylshreyter.instagramclient;
+package com.kirylshreyter.diamondapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.kirylshreyter.instagramclient", appContext.getPackageName());
+        assertEquals("com.kirylshreyter.diamondapp", appContext.getPackageName());
     }
 }

@@ -1,6 +1,6 @@
-package com.kirylshreyter.instagramclient.activities;
+package com.kirylshreyter.diamondapp.activities;
 
-import com.kirylshreyter.instagramclient.R;
+import com.kirylshreyter.diamondapp.R;
 
 public class MainActivity extends BaseActivity {
     MainActivity() {
