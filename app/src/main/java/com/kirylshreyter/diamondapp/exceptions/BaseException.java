@@ -1,4 +1,4 @@
-package com.kirylshreyter.instagramclient.activities;
+package com.kirylshreyter.diamondapp.exceptions;
 
 public class BaseException extends RuntimeException {
     public BaseException() {
